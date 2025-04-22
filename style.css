@@ -1,0 +1,9 @@
+body {
+    background-color: #9c5d83;
+    color: #5c839f;
+}
+
+ul {
+    text-decoration: underline
+    border:1px solid #ccc;
+}
